@@ -1,0 +1,5 @@
+# Code Owners
+*.ts @geoseong @jb9229
+*.tsx @geoseong @jb9229
+*.js @geoseong @jb9229
+*.json @geoseong @jb9229
