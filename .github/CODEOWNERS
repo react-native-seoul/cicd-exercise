@@ -1,5 +1,6 @@
 # Code Owners
-*.ts @geoseong @jb9229
-*.tsx @geoseong @jb9229
-*.js @geoseong @jb9229
-*.json @geoseong @jb9229
+
+_.ts @geoseong @jb9229 @otterji
+_.tsx @geoseong @jb9229 @otterji
+_.js @geoseong @jb9229 @otterji
+_.json @geoseong @jb9229 @otterji
