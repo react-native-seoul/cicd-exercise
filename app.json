@@ -1,5 +1,6 @@
 {
   "expo": {
+    "owner": "rn-seoul",
     "name": "cicd-exercise",
     "slug": "cicd-exercise",
     "version": "1.0.0",
@@ -12,15 +13,20 @@
       "backgroundColor": "#ffffff"
     },
     "updates": {
-      "fallbackToCacheTimeout": 0
+      "fallbackToCacheTimeout": 0,
+      "url": "https://u.expo.dev/c05ceb69-6044-4a9b-bf84-292c9909c926"
     },
     "assetBundlePatterns": [
       "**/*"
     ],
     "ios": {
+      "buildNumber": "22111001",
+      "bundleIdentifier": "com.dooboolab.cicd",
       "supportsTablet": true
     },
     "android": {
+      "versionCode": 22111001,
+      "package": "com.dooboolab.cicd",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
@@ -28,6 +34,14 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c05ceb69-6044-4a9b-bf84-292c9909c926"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
     }
   }
 }
